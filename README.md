@@ -1,2 +1,4 @@
 # Mustafa-Dane
-9. sınıf Fizik
+Mustafa Dane
+Sınıf:9-A
+No:71
