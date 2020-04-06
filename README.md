@@ -55,3 +55,12 @@ Bir porsiyon makarna(Çeyrek paket)--->450kkal
 – Bolognez sos eklerseniz: 673 kkal
 
 – Kremalı mantar sos eklerseniz: 723 kkal
+
+
+
+
+ANNEM ---> 66kg-1.63m |  24.84/Normal Kilolu
+
+BABAM ---> 80kg-1.75m |  26.12/Fala Kilolu
+
+BEN --->62kg-1.69m |  21.70/Normal Kilolu
